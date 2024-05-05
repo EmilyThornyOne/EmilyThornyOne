@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EmilyThornyOne
+- 👀 I’m interested in statistics, vehicles (my favorite is Astone Martin) and everything that can be visualized 😜
+- 🌱 I’m currently learning R, SAS and a little bit Python.
